@@ -1,0 +1,12 @@
+.main-section {
+    display: flex;
+    flex-direction: row;
+}
+header {
+    flex: 1;
+    background-color: rgb(48, 134, 209);
+}
+main {
+    flex: 3;
+    background-color: rgb(134, 85, 20);
+}
