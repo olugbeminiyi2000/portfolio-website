@@ -11,7 +11,7 @@ body, html {
 header {
     flex: 1;
     background-image: linear-gradient( #080402,  #373737),
-                  url("/styles/header-background.jpg");
+                  url("/styles/portfolio-pic-0.jpg");
 }
 .header-section {
     display: flex;
@@ -80,7 +80,7 @@ main {
     header {
         flex: 1;
         background-image: linear-gradient( #ADADC9,  #C5C6D0),
-                      url("/styles/portfolio-pic.jpg");
+                      url("/styles/portfolio-pic-1.jpg");
     }
     .header-section {
         display: flex;
@@ -155,8 +155,8 @@ main {
     }
     header {
         flex: 1;
-        background-image: linear-gradient( #080402,  #373737),
-                      url("/styles/header-background.jpg");
+        background-image: linear-gradient( #757C88,   #59515E),
+                      url("/styles/portfolio-pic-2.jpg");
     }
     .header-section {
         display: flex;
@@ -182,18 +182,18 @@ main {
     /* applying pseudo classes */
     .links-container a:nth-child(n + 1) {
         text-decoration: none;
-        color: #FFFFFF;
+        color: #f00;
         font-weight: lighter;
         font-family: 'Courier New', Courier, monospace;
     }
     a.home:hover, a.about:hover, a.skills:hover, a.education:hover{
-        text-decoration: underline #D21404 solid 2px;
+        text-decoration: underline #000000 solid 2px;
     }
     /* pseudo class application done */
 
     /*Class added to links based on an event listeener in header.js */
     .links-container a.underline {
-        text-decoration: underline #3CB043 solid 2px !important;
+        text-decoration: underline #FFFFFF solid 2px !important;
     }
     .links-container a {
         margin: 15px 0;
@@ -201,7 +201,7 @@ main {
     
     }
     h2, p {
-        color: #FFFFFF;
+        color: #80471C;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         text-align: center;
     }
