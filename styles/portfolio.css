@@ -51,7 +51,7 @@ a.home:hover, a.about:hover, a.skills:hover, a.education:hover{
 /* pseudo class application done */
 
 /*Class added to links based on an event listeener in header.js */
-.underline {
+.links-container a.underline {
     text-decoration: underline #3CB043 solid 2px;
 }
 
