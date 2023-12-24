@@ -224,7 +224,7 @@ main {
         max-width: 100%;
         border-radius: 50%;
         width: 90px;
-        height: 90px;
+        height: 85px;
     }
     .links-container {
         display: flex;
