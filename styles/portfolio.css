@@ -39,7 +39,6 @@ header {
 
 }
 /* applying pseudo classes */
-
 .links-container a:nth-child(n + 1) {
     text-decoration: none;
     color: #FFFFFF;
@@ -49,6 +48,13 @@ header {
 a.home:hover, a.about:hover, a.skills:hover, a.education:hover{
     text-decoration: underline #D21404 solid 2px;
 }
+/* pseudo class application done */
+
+/*Class added to links based on an event listeener in header.js */
+.underline {
+    text-decoration: underline #3CB043 solid 2px;
+}
+
 h2, p {
     color: #FFFFFF;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
