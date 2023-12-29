@@ -9,7 +9,7 @@ function checkUnderline(element)
 }
 function checkListener(event)
 {
-    event.preventDefault(); 
+    // event.preventDefault(); 
     myLinks.forEach(checkUnderline);
     const elementClassList = event.currentTarget.classList;
     elementClassList.add("underline");
