@@ -14,7 +14,7 @@ function switchIcons1()
     const firstImgTag = imgTags[0];
     const firstNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    firstNewTag.src = "images/web-development-3.png";
+    firstNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/web-development-3.png";
     firstNewTag.alt = "web-pic-0";
     firstNewTag.className = "img";
     // switch tags
@@ -25,7 +25,7 @@ function switchIcons1()
     const secondImgTag = imgTags[1];
     const secondNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    secondNewTag.src = "images/artificial-intelligence-1.png";
+    secondNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/artificial-intelligence-1.png";
     secondNewTag.alt = "ai-pic-0";
     secondNewTag.className = "img";
     // switch tags
@@ -36,7 +36,7 @@ function switchIcons1()
     const thirdImgTag = imgTags[2];
     const thirdNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    thirdNewTag.src = "images/server-2.png";
+    thirdNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/server-2.png";
     thirdNewTag.alt = "server-pic-0";
     thirdNewTag.className = "img";
     // switch tags
@@ -47,7 +47,7 @@ function switchIcons1()
     const fourthImgTag = imgTags[3];
     const fourthNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    fourthNewTag.src = "images/analytics.png";
+    fourthNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/analytics.png";
     fourthNewTag.alt = "data-science-pic-0";
     fourthNewTag.className = "img";
     // switch tags
@@ -58,7 +58,7 @@ function switchIcons1()
     const fifthImgTag = imgTags[4];
     const fifthNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    fifthNewTag.src = "images/software.png";
+    fifthNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/software.png";
     fifthNewTag.alt = "software-pic-0";
     fifthNewTag.className = "img";
     // switch tags
@@ -80,7 +80,7 @@ function switchIcons2()
     const firstImgTag = imgTags[0];
     const firstNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    firstNewTag.src = "images/web-development.png";
+    firstNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/web-development.png";
     firstNewTag.alt = "web-pic-0";
     firstNewTag.className = "img";
     // switch tags
@@ -91,7 +91,7 @@ function switchIcons2()
     const secondImgTag = imgTags[1];
     const secondNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    secondNewTag.src = "images/artificial-intelligence-2.png";
+    secondNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/artificial-intelligence-2.png";
     secondNewTag.alt = "ai-pic-0";
     secondNewTag.className = "img";
     // switch tags
@@ -102,7 +102,7 @@ function switchIcons2()
     const thirdImgTag = imgTags[2];
     const thirdNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    thirdNewTag.src = "images/server-3.png";
+    thirdNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/server-3.png";
     thirdNewTag.alt = "server-pic-0";
     thirdNewTag.className = "img";
     // switch tags
@@ -113,7 +113,7 @@ function switchIcons2()
     const fourthImgTag = imgTags[3];
     const fourthNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    fourthNewTag.src = "images/analytics-1.png";
+    fourthNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/analytics-1.png";
     fourthNewTag.alt = "data-science-pic-0";
     fourthNewTag.className = "img";
     // switch tags
@@ -124,7 +124,7 @@ function switchIcons2()
     const fifthImgTag = imgTags[4];
     const fifthNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    fifthNewTag.src = "images/software.png";
+    fifthNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/software.png";
     fifthNewTag.alt = "software-pic-0";
     fifthNewTag.className = "img";
     // switch tags
@@ -147,7 +147,7 @@ function switchIcons3()
     const firstImgTag = imgTags[0];
     const firstNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    firstNewTag.src = "images/web-development-2.png";
+    firstNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/web-development-2.png";
     firstNewTag.alt = "web-pic-0";
     firstNewTag.className = "img";
     // switch tags
@@ -158,7 +158,7 @@ function switchIcons3()
     const secondImgTag = imgTags[1];
     const secondNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    secondNewTag.src = "images/artificial-intelligence.png";
+    secondNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/artificial-intelligence.png";
     secondNewTag.alt = "ai-pic-0";
     secondNewTag.className = "img";
     // switch tags
@@ -169,7 +169,7 @@ function switchIcons3()
     const thirdImgTag = imgTags[2];
     const thirdNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    thirdNewTag.src = "images/server-1.png";
+    thirdNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/server-1.png";
     thirdNewTag.alt = "server-pic-0";
     thirdNewTag.className = "img";
     // switch tags
@@ -180,7 +180,7 @@ function switchIcons3()
     const fourthImgTag = imgTags[3];
     const fourthNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    fourthNewTag.src = "images/analytics-3.png";
+    fourthNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/analytics-3.png";
     fourthNewTag.alt = "data-science-pic-0";
     fourthNewTag.className = "img";
     // switch tags
@@ -191,7 +191,7 @@ function switchIcons3()
     const fifthImgTag = imgTags[4];
     const fifthNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    fifthNewTag.src = "images/software.png";
+    fifthNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/software.png";
     fifthNewTag.alt = "software-pic-0";
     fifthNewTag.className = "img";
     // switch tags
@@ -214,7 +214,7 @@ function switchIcons4()
     const firstImgTag = imgTags[0];
     const firstNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    firstNewTag.src = "images/web-development-1.png";
+    firstNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/web-development-1.png";
     firstNewTag.alt = "web-pic-0";
     firstNewTag.className = "img";
     // switch tags
@@ -225,7 +225,7 @@ function switchIcons4()
     const secondImgTag = imgTags[1];
     const secondNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    secondNewTag.src = "images/artificial-intelligence-3.png";
+    secondNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/artificial-intelligence-3.png";
     secondNewTag.alt = "ai-pic-0";
     secondNewTag.className = "img";
     // switch tags
@@ -247,7 +247,7 @@ function switchIcons4()
     const fourthImgTag = imgTags[3];
     const fourthNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    fourthNewTag.src = "images/analytics-2.png";
+    fourthNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/analytics-2.png";
     fourthNewTag.alt = "data-science-pic-0";
     fourthNewTag.className = "img";
     // switch tags
@@ -258,7 +258,7 @@ function switchIcons4()
     const fifthImgTag = imgTags[4];
     const fifthNewTag = document.createElement("img");
     // give new ImgTag src and alt value
-    fifthNewTag.src = "images/software.png";
+    fifthNewTag.src = "https://emmanuel-obolo-portfolio.cprogramming.tech/software.png";
     fifthNewTag.alt = "software-pic-0";
     fifthNewTag.className = "img";
     // switch tags
