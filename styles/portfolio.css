@@ -45,7 +45,7 @@ header {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
-a.home:hover, a.about:hover, a.skills:hover, a.education:hover{
+a.home:hover, a.about:hover, a.skills:hover, a.education:hover, a.contact:hover{
     text-decoration: underline #D21404 solid 2px;
 }
 /* pseudo class application done */
@@ -618,7 +618,7 @@ bold.Linux {
         font-weight: bold;
         font-family: 'Courier New', Courier, monospace;
     }
-    a.home:hover, a.about:hover, a.skills:hover, a.education:hover{
+    a.home:hover, a.about:hover, a.skills:hover, a.education:hover, a.contact:hover{
         text-decoration: underline #1520A6 solid 2px;
     }
     /* pseudo class application done */
@@ -859,7 +859,7 @@ bold.Linux {
         font-weight: bold;
         font-family: 'Courier New', Courier, monospace;
     }
-    a.home:hover, a.about:hover, a.skills:hover, a.education:hover{
+    a.home:hover, a.about:hover, a.skills:hover, a.education:hover, a.contact:hover{
         text-decoration: underline #1520A6 solid 2px;
     }
     /* pseudo class application done */
@@ -1465,7 +1465,7 @@ bold.Linux {
         font-weight: bold;
         font-family: 'Courier New', Courier, monospace;
     }
-    a.home:hover, a.about:hover, a.skills:hover, a.education:hover{
+    a.home:hover, a.about:hover, a.skills:hover, a.education:hover, a.contact:hover{
         text-decoration: underline #000000 solid 2px;
     }
     /* pseudo class application done */
