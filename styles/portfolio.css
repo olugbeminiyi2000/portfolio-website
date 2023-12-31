@@ -1824,7 +1824,7 @@ bold.Linux {
         border-radius: 50%;
         width: 60px;
         height: 60px;
-        display: none;
+        display: none !important;
     }
     .links-container {
         display: flex;
@@ -1839,7 +1839,7 @@ bold.Linux {
         border-radius: 50%;
         width: 60px;
         height: 60px;
-        display: none;
+        display: none !important;
     }
     .links-container {
         display: flex;
