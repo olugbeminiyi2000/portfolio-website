@@ -1822,8 +1822,8 @@ bold.Linux {
     .header-section img {
         max-width: 100%;
         border-radius: 50%;
-        width: 90px;
-        height: 85px;
+        width: 60px;
+        height: 60px;
     }
     .links-container {
         display: flex;
@@ -1845,6 +1845,6 @@ bold.Linux {
         padding: 0px 0px;
     }
     .image-container {
-        padding-top: 80px;
+        padding-top: 60px;
     }      
 }
