@@ -1,6 +1,6 @@
 # Portfolio Page
 
-![Portfolio Page](/images/screenshot.png)
+![Portfolio Page](portfolio-image.png)
 
 ## Table of Contents
 
