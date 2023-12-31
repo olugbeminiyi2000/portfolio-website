@@ -1817,7 +1817,7 @@ bold.Linux {
     }    
 }
 /* media query for max-height 601 to min-height 150 */
-@media screen and (max-height: 601px)
+@media screen and (max-height: 540px)
 {
     .header-section img {
         max-width: 100%;
