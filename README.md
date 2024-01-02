@@ -28,7 +28,7 @@ This is the source code for Emmanuel Obolo Oluwapelumi's portfolio page. It show
   
 ## Web Infrastructure
 
-This portfolio is hosted on a custom web infrastructure built by the developer. The setup includes load balancing, SSL termination, web servers, and firewall configurations.
+This portfolio is hosted on a custom web infrastructure built by the me. The setup includes load balancing, SSL termination, web servers, and firewall configurations.
 
 ### Load Balancer (HAProxy)
 
@@ -50,7 +50,7 @@ The firewall setup is managed using UFW (Uncomplicated Firewall), enhancing the 
 
 ### Prerequisites
 
-- Web browser (Google Chrome, Firefox, Safari, Internet Explorer etc.)
+- Web browser (Google Chrome, Firefox, Safari, Internet Explorer, Opera Mini etc.)
 
 ### Installation
 
