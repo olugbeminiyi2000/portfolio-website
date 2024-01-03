@@ -486,7 +486,7 @@ bold.Linux {
     flex-direction: column;
     background-color: #373737;
     padding-top: 20px;
-    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .project-section {
     display: flex;
